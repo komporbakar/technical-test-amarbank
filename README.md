@@ -3,7 +3,11 @@
 ### Installation
 
 ```
-git clone
+git clone https://github.com/komporbakar/technical-test-amarbank.git
+```
+
+```
+composer update
 ```
 
 ### Setup Database
