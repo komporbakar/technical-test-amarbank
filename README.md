@@ -7,6 +7,10 @@ git clone https://github.com/komporbakar/technical-test-amarbank.git
 ```
 
 ```
+cd technical-test-amarbank
+```
+
+```
 composer update
 ```
 
